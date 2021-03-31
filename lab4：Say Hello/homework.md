@@ -35,4 +35,6 @@
 ![4-11](https://github.com/IVY-1999/android_1813066/blob/main/image/lab4/4-11.png)
 >
 >
+## 三、演示视频
+见该目录下的 ***“lab4演示视频”*** 文件
 
