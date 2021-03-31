@@ -26,10 +26,13 @@
 ## 二、效果图展示
 >
 ### 1. 主界面
-
+![4-9](https://github.com/IVY-1999/android_1813066/blob/main/image/lab4/4-9.png)
 >
 ### 2. 计数器
+![4-10](https://github.com/IVY-1999/android_1813066/blob/main/image/lab4/4-10.png)
 >
 ### 3. 页面跳转显示 Hello！字样以及计数器的当前计数
+![4-11](https://github.com/IVY-1999/android_1813066/blob/main/image/lab4/4-11.png)
+>
 >
 
