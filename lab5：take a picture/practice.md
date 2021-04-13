@@ -21,7 +21,9 @@
 >
 ### 2. 效果图展示
 >
-- #### 打开网页：
+- #### 主界面展示：
+>
+- #### 打开网页(为了展示效果打开百度）：
 >
 - #### 打开位置：
 >
@@ -34,8 +36,10 @@
 ### 1. 关键代码展示
 >
 - #### MainActivity 主类：
+![5-6](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/6.png)
 >
 - #### AndroidManifest.xml 文件：
+![5-7](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/7.png)
 >
 ### 2. 效果图展示：
 >
