@@ -22,12 +22,16 @@
 ### 2. 效果图展示
 >
 - #### 主界面展示：
+![5-8](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/8.png)
 >
 - #### 打开网页(为了展示效果打开百度）：
+![5-9](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/9.png)
 >
 - #### 打开位置：
+![5-10](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/10.png)
 >
 - #### 分享文字：
+![5-11](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/11.png)
 >
 >
 >
@@ -42,9 +46,11 @@
 ![5-7](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/7.png)
 >
 ### 2. 效果图展示：
+![5-12](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/12.png)
 >
 >
 ## 三、两个 project 的最终展示效果
+![5-13](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/13.png)
 >
 >
 ## 四、演示视频：
