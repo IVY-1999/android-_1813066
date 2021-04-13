@@ -4,23 +4,23 @@
 >
 ### 1. 关键代码展示
 >
-#### - openWebsite 按钮：
+- ####  openWebsite 按钮：
 >
-#### - openLocation 按钮：
+- #### openLocation 按钮：
 >
-#### - shareText 按钮：
+- #### shareText 按钮：
 >
-#### - MainActivity 主类：
+- #### MainActivity 主类：
 >
-#### - strings.xml 文件：
+- #### strings.xml 文件：
 >
 ### 2. 效果图展示
 >
-#### - 打开网页：
+- #### 打开网页：
 >
-#### - 打开位置：
+- #### 打开位置：
 >
-#### - 分享文字：
+- #### 分享文字：
 >
 >
 >
@@ -28,9 +28,9 @@
 >
 ### 1. 关键代码展示
 >
-#### - MainActivity 主类：
+- #### MainActivity 主类：
 >
-#### - AndroidManifest.xml 文件：
+- #### AndroidManifest.xml 文件：
 >
 ### 2. 效果图展示：
 >
