@@ -50,7 +50,7 @@
 >
 >
 ## 三、两个 project 的最终展示效果
-![5-13](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/13.png)
+![5-13](https://github.com/IVY-1999/android_1813066/blob/main/image/lab5/13.jpg)
 >
 >
 ## 四、演示视频：
