@@ -17,18 +17,16 @@
 # 2. Lab7 Part B
 >
 ## 效果图
-- ### 主界面：
-![7-4]()
 >
 - ### 点击不同的选项卡访问不同的内容：
 1. #### 选择 TOP STORIES
-![7-5]()
+![7-4](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-4.png)
 >
 2. #### 选择 TECH NEWS
-![7-6]()
+![7-5](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-5.png)
 >
 3. #### 选择 COOKING
-![7-7]()
+![7-6](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-6.png)
 >
 >
 ## 演示视频
