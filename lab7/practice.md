@@ -11,7 +11,7 @@
 ![7-3](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-3.png)
 >
 ## 演示视频
-请查看同一目录下的 ***lab7.zip/part A.mp4*** 文件
+请查看同一目录下的 ***lab7.7z/part A.mp4*** 文件
 >
 >
 # 2. Lab7 Part B
@@ -30,7 +30,7 @@
 >
 >
 ## 演示视频
-请查看同一目录下的 ***lab7.zip/part B.mp4*** 文件
+请查看同一目录下的 ***lab7.7z/part B.mp4*** 文件
 >
 >
 # 3. lab7 Part C
@@ -47,5 +47,5 @@
 ![7-10](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-10.png)
 >
 ## 演示视频
-请查看同一目录下的 ***lab7.zip/part C.mp4*** 文件
+请查看同一目录下的 ***lab7.7z/part C.mp4*** 文件
 
