@@ -18,7 +18,7 @@
 >
 ## 效果图
 >
-### 点击不同的选项卡访问不同的内容：
+### 点击不同的选项卡访问不同的内容
 - #### 选择 TOP STORIES
 ![7-4](https://github.com/IVY-1999/android_1813066/blob/main/image/lab7/7-4.png)
 >
