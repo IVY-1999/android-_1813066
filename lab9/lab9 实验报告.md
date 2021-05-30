@@ -32,8 +32,10 @@
 ## 二、效果图
 >
 ### 1. 主界面
+![9-10](https://github.com/IVY-1999/android_1813066/blob/main/image/lab9/9-10.png)
 >
 ### 2. 获取输入的网址的源代码信息
+![9-11](https://github.com/IVY-1999/android_1813066/blob/main/image/lab9/9-11.png)
 >
 ## 三、演示视频
 >
