@@ -13,9 +13,6 @@
 >
 - ### 重载 onPause 方法：
 ![11-4](https://github.com/IVY-1999/android_1813066/blob/main/image/lab11/11-4.png)
-
-- ### 保存两队分数的 onSaveInstanceState 方法：
-![11-7](https://github.com/IVY-1999/android_1813066/blob/main/image/lab11/11-7.png)
 >
 ## 效果图
 >
